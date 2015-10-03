@@ -36,6 +36,7 @@ We will
 1. Coffee, tea, bagels, etc
 1. Enough space for teams to work
 1. Wifi
+1. Screen and projector, Mac connector
 1. 7 (?) READMEs for improvement, with 5 more as backups if needed. We'll want printouts with git URLs so people can take them. 
    Printouts should also have this README URL, so people can consult for instructions
 1. Overall session scribe
