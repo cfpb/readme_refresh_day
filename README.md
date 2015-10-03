@@ -104,3 +104,13 @@ Each group gets 5 or so minutes to talk about
 The overall session scribe actively listens and documents during the everyone-together portions of the session. 
 Capturing the discussion is critical for a proper post-session write-up on cfpb.github.io
  
+## Lessons learned
+
+1. Allot at least three hours of dedicated time for your README Refresh Day. 
+   We felt rushed and could’ve used another 30-60 minutes
+1. Have enough READMEs preselected that teams can move on to another if they finish the first.
+1. Teams should pick another README if they start to work on a README and realize they are unable to continue. 
+   For example, a team might realize that the README they selected requires some specific knowledge that they don’t possess.
+   In these cases, it’s better to switch to a README they can quickly improve in the time allotted, 
+   rather than spend a lot of time trying to learn the prerequisite knowledge.
+1. When teams broke into small groups and went to separate rooms, we used a dedicated chat room to ask and answer questions, paste links, etc.
